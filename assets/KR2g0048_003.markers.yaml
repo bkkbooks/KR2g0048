@@ -30,6 +30,7 @@ markers:
   - {type: line-break, offset: 12, content: '', id: KR2g0048_WYG_003-1a05}
   - {type: indent, offset: 12, content: 　　, id: KR2g0048_krp_003-bkkind6}
   - {type: punctuation, offset: 19, content: (, id: KR2g0048_krp_003-bkkpn1}
+  - {type: voice, offset: 19, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 22, content: /, id: KR2g0048_krp_003-bkkpn2}
   - {type: punctuation, offset: 22, content: ), id: KR2g0048_krp_003-bkkpn3}
   - {type: 'kr:newline', offset: 22, content: '
@@ -737,6 +738,7 @@ markers:
   - {type: line-break, offset: 2854, content: '', id: KR2g0048_WYG_003-10a01}
   - {type: indent, offset: 2854, content: 　　, id: KR2g0048_krp_003-bkkind8}
   - {type: punctuation, offset: 2862, content: (, id: KR2g0048_krp_003-bkkpn4}
+  - {type: voice, offset: 2862, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 2865, content: /, id: KR2g0048_krp_003-bkkpn5}
   - {type: punctuation, offset: 2865, content: ), id: KR2g0048_krp_003-bkkpn6}
   - {type: indent, offset: 2865, content: 　, id: KR2g0048_krp_003-bkkind9}
@@ -1310,6 +1312,7 @@ markers:
   - {type: indent, offset: 5134, content: 　　, id: KR2g0048_krp_003-bkkind11}
   - {type: substitution, offset: 5137, original: 𫝊, replacement: 傳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0216}}
   - {type: punctuation, offset: 5138, content: (, id: KR2g0048_krp_003-bkkpn13}
+  - {type: voice, offset: 5138, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 5141, content: /, id: KR2g0048_krp_003-bkkpn14}
   - {type: punctuation, offset: 5141, content: ), id: KR2g0048_krp_003-bkkpn15}
   - {type: 'kr:newline', offset: 5141, content: '
@@ -1814,4 +1817,4 @@ markers:
 
       ', id: KR2g0048_krp_003-bkkkrnewl395}
   back: []
-hash: sha256:fce6d4f8352b7f26966ad9ea6ccb7feac821a36aa080e2e0a7b6ba38f59bbe1b
+hash: sha256:7cc7dfb9888df0768c846ae68bc9f32dd1ea8331db0c532e5e8acff17d0b2ccd
